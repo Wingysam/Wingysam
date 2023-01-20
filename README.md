@@ -1,11 +1,10 @@
 # 👋 Hello! I'm Wingy!
 
-[![Wingy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wingysam&&show_icons=true&title_color=ffffff&icon_color=26dafd&text_color=daf7dc&bg_color=151515&count_private=true")](https://github.com/Wingysam)
-
 Some of my open-source projects:
 * [Christmas Community](https://github.com/Wingysam/Christmas-Community) is a wishlist management platform for families. While building this, I learned about web applications, their security, and balancing client-side performance with network performance.
 * [RobloxHandleCloser](https://github.com/Wingysam/RobloxHandleCloser) allows opening multiple instances of the game platform Roblox. I learned about Windows handles.
 * [autopause](https://github.com/Wingysam/autopause) automates mining cryptocurrency with NiceHash while not gaming, but not mining while gaming. I learned about using obscure APIs to get the result I need.
+* [Power Remote for OpenLP](https://github.com/Wingysam/openlp-power-remote) is an alternative web remote for OpenLP to streamline the presenter experience. I improved my knowledge of Svelte and TypeScript.
 
 Libraries/Frameworks:
 * [Blockheads Welcome Message Framework](https://github.com/Wingysam/wm-framework) is a way to simplify the HTML welcome messages on the iOS game "The Blockheads". I learned about creating and parsing DSLs.
